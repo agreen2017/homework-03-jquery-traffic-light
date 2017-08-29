@@ -1,10 +1,10 @@
-#FEWD Homework #3 - jQuery Traffic Light
+# FEWD Homework #3 - jQuery Traffic Light
 
 <br>
 
 ---
 
-###Description
+### Description
 
 In class you were introduced to jQuery, which is a javascript library that uses css selectors to select and manipulate elements on web pages. In this assignment you will use **jQuery** to make the traffic light functional.
 
@@ -13,7 +13,7 @@ In class you were introduced to jQuery, which is a javascript library that uses 
 
 ---
 
-###Technical Requirements
+### Technical Requirements
 
 - Use jQuery (and not native javascript)
 - Your javascript code should be placed in an external js file
